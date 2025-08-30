@@ -3,7 +3,6 @@ using namespace std;
 class library
 {
 	public:
-
 	void menu()
 	{
 		//Open file, also mentioning total number of books in library
